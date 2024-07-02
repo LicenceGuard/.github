@@ -1,1 +1,1 @@
-# LicenceGuard
+# Stars Development
